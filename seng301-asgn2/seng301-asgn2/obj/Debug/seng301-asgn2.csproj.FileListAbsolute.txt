@@ -1,0 +1,7 @@
+C:\Users\Mike\Desktop\seng301-assignments-master\seng301-asgn2\seng301-asgn2\bin\Debug\seng301-asgn2.exe.config
+C:\Users\Mike\Desktop\seng301-assignments-master\seng301-asgn2\seng301-asgn2\obj\Debug\seng301-asgn2.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\seng301-assignments-master\seng301-asgn2\seng301-asgn2\bin\Debug\seng301-asgn2.exe
+C:\Users\Mike\Desktop\seng301-assignments-master\seng301-asgn2\seng301-asgn2\bin\Debug\seng301-asgn2.pdb
+C:\Users\Mike\Desktop\seng301-assignments-master\seng301-asgn2\seng301-asgn2\bin\Debug\grammatica-1.6.dll
+C:\Users\Mike\Desktop\seng301-assignments-master\seng301-asgn2\seng301-asgn2\obj\Debug\seng301-asgn2.exe
+C:\Users\Mike\Desktop\seng301-assignments-master\seng301-asgn2\seng301-asgn2\obj\Debug\seng301-asgn2.pdb
